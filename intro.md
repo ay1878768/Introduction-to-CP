@@ -34,6 +34,14 @@ Here is a list of websites , you can also prefer one of them for practicing.
 <br>
 
 ## Books and Other resources-
+<br>
 1.***CLRS***-<a href="https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf">Click here</a>
-2.
-
+<br>
+2.***CP Algorithm***-<a href="https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf">Click here</a>
+<br>
+3.***Competitive programmer’s Handbook***-<a href="https://cses.fi/book/book.pdf">
+<br>
+4.***takeUforward***-<a href="https://www.youtube.com/c/takeUforward">Click here</a>
+<br>
+5.***LUV***-<a href="https://www.youtube.com/@iamluv">Click here</a>
+<br>
