@@ -24,12 +24,16 @@ Codeforces is the best platform for competitive programming. It organizes short 
 
 Here is a list of websites , you can also prefer one of them for practicing.
 <br>
-1.***Codeforces***- https://codeforces.com/
+1.***Codeforces***- <a href="https://codeforces.com/">Click here</a>
 <br>
-2.***Codechef***- https://www.codechef.com/
+2.***Codechef***- <a href="https://www.codechef.com/">Click here</a>
 <br>
-3.***AtCoder***- https://atcoder.jp/
+3.***AtCoder***- <a href="https://atcoder.jp/">Click here</a>
 <br>
-4.***Topcoder***- https://www.topcoder.com/
+4.***Topcoder***- <a href="https://www.topcoder.com/">Click here</a>
 <br>
+
+## Books and Other resources-
+1.***CLRS***-<a href="https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf">Click here</a>
+2.
 
