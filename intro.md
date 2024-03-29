@@ -39,7 +39,7 @@ Here is a list of websites , you can also prefer one of them for practicing.
 <br>
 2.***CP Algorithm***- <a href="https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf">Click here</a>
 <br>
-3.***Competitive programmer’s Handbook***- <a href="https://cses.fi/book/book.pdf">
+3.***Competitive programmer’s Handbook***- <a href="https://cses.fi/book/book.pdf">click here</a>
 <br>
 4.***takeUforward***- <a href="https://www.youtube.com/c/takeUforward">Click here</a>
 <br>
