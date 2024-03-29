@@ -16,7 +16,7 @@ Everyone should try to do CP. It helps enhance one’s mind and develop analytic
 
 Start with learning the basics of a programming language. it can be any one. After learning the basics, start practicing problems. For this, you can start with CodeChef or HackerRank as it is the beginner-friendly platform and helps to develop fundamental problem-solving skills easily.
 
-## Which platform should one start from?
+## Which platform should one prefer?
 
 Codeforces is the best platform for competitive programming. It organizes short contests very frequently, and the level and quality of questions are also very good. They also have a feature of participating in a contest virtually which means that if you miss the live contest you can still give the contest virtually, the only difference is that in the case of virtual participation there will be no change in the rating.
 
@@ -24,8 +24,11 @@ Codeforces is the best platform for competitive programming. It organizes short 
 
 Here is a list of websites , you can also prefer one of them for practicing.
 1.***Codeforces***- https://codeforces.com/
+<br>
 2.***Codechef***- https://www.codechef.com/
+<br>
 3.***AtCoder***- https://atcoder.jp/
+<br>
 4.***Topcoder***- https://www.topcoder.com/
-
+<br>
 
