@@ -36,7 +36,7 @@ Here is a list of websites , you can also prefer one of them for practicing.
 
 ## Books , websites and Other resources -
 
-1.***CP Algorithm website***- <a href="https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf">Click here</a>
+1.***A2OJ Ladder Problem set***- <a href="https://earthshakira.github.io/a2oj-clientside/server/Ladders.html">Click here</a>
 <br>
 2.***Competitive programmer’s Handbook***- <a href="https://cses.fi/book/book.pdf">click here</a>
 <br>
@@ -48,4 +48,4 @@ Here is a list of websites , you can also prefer one of them for practicing.
 <br>
 6.***CSES Problem set***- <a href="https://cses.fi/problemset/">Click here</a>
 <br>
-7.***A2OJ Ladder Problem set***- <a href="https://earthshakira.github.io/a2oj-clientside/server/Ladders.html">Click here</a> 
+7.***CP Algorithm website***- <a href="https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf">Click here</a>
